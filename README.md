@@ -13,7 +13,7 @@ Visual Components Premium 4.3
 3. 	In the script editor, add the code and then compile the code.
 
 ## Program
-```
+```python
 Developed by: M B ANU VARSHINI
 RegisterNumber: 23008712 
 from vcScript import *
